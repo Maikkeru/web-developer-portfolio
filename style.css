@@ -1,0 +1,31 @@
+body {
+  background-color: #7fa7e4;
+  margin: 2.5vw;
+}
+nav {
+  display: flex;
+  justify-content: center;
+}
+
+nav li {
+  position: relative;
+  display: inline;
+}
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 400px;
+}
+footer a {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+footer a img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100px;
+}
